@@ -1,2 +1,1 @@
-# portofolio
-my portofolio website front end engineer with ai
+front end engineer with ai
